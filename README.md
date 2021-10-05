@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sri-divya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 👀 I’m interested in .
+- 🌱 I’m currently learning - Integrated M.tech (computer science and engineering)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -sridivyakarthikn@gmail.com
 
